@@ -5,6 +5,8 @@ fields:
 - type: text
   name: baseURL
   label: baseURL
+  config:
+    required: true
 - type: text
   name: languageCode
   label: languageCode

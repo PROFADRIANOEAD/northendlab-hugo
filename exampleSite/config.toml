@@ -6,10 +6,10 @@ summaryLength = "10"
 theme = ""
 title = "Blog aulas"
 [[menu.footer]]
-URL = "contato"
-name = "Contato"
-weight = 1
-[[menu.footer]]
+URL = "Ferramentas"
+name = "Ferramentas"
+weight = 2
+[[menu.main]]
 URL = "Ferramentas"
 name = "Ferramentas"
 weight = 2
@@ -17,10 +17,6 @@ weight = 2
 URL = "contato"
 name = "Contato"
 weight = 1
-[[menu.main]]
-URL = "Ferramentas"
-name = "Ferramentas"
-weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]

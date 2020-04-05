@@ -1,7 +1,7 @@
 +++
 author = "Adriano Santos"
 categories = ["Notícia, Coronavírus, informativo."]
-date = 2019-11-05T05:00:00Z
+date = 2020-04-05T05:00:00Z
 description = "This is meta description"
 image = "/images/images (1).jpg"
 title = "O desafio da educação a distância diante da pandemia do coronavírus."

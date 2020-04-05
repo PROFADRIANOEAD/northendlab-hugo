@@ -6,16 +6,12 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Blog aulas"
 [[menu.footer]]
-URL = ""
-name = ""
-weight = ""
-[[menu.footer]]
 URL = "contato"
 name = "Contato"
 weight = 1
 [[menu.footer]]
-URL = "tools"
-name = "tools"
+URL = "Ferramentas"
+name = "Ferramentas"
 weight = 2
 [[menu.main]]
 URL = "contato"

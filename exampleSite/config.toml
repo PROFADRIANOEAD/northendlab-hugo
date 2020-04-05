@@ -18,8 +18,8 @@ URL = "contato"
 name = "Contato"
 weight = 1
 [[menu.main]]
-URL = "tools"
-name = "tools"
+URL = "Ferramentas"
+name = "Ferramentas"
 weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
